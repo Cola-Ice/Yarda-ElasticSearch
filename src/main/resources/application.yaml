@@ -1,0 +1,7 @@
+# elasticsearch ≈‰÷√
+spring:
+  elasticsearch:
+    rest:
+      uris: http://****
+      username: '****'
+      password: '****'
